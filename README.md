@@ -64,3 +64,7 @@ To setup the crontab please see run `crontab -e` to edit the crontab and paste t
 
 ## Build
 At this time only the client web interface needs to be built using webpack and this can be done by running `yarn run build:web`.  This will bundle the application and put it in the `/public` folder for delivery.
+
+#### Bitcoin donations welcome: 3BJbCUdJ8mhZn9B2Ncz1JBBEbe1R8816AW
+#### Litcoin donations welcome: MQRLB7gYHBAZuY8erwbMTguG24CBAwgwo4
+#### Dash coin donations welcome: XsXNddLuVLc1b1Q2DDqniSvwYbpq7F2BLe
